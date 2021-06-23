@@ -1,7 +1,9 @@
-public class Hello extends HelloWorld{
-    public static void main(String[] args) {
+public class Hello {
 
-        HelloWorld hw = new HelloWorld();
+
+
+
+    public static void main(String[] args) {
 
 
 
